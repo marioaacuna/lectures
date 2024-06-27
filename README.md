@@ -30,7 +30,7 @@ Each lecture topic has its own directory containing specific scripts and materia
 
 1. Clone this repository to your local machine:
    ``` bash
-   git clone https://github.com/marioaacuna/Lectures.git
+   git clone https://github.com/marioaacuna/lectures.git
    cd Lectures
    ```
 
@@ -84,4 +84,4 @@ If you're contributing to this repository, please ensure any new scripts are pla
 
 ## Contact
 
-For any questions or issues, please [open an issue](https://github.com/your-username/Lectures/issues) on this repository.
+For any questions or issues, please [open an issue](https://github.com/marioaacuna/lectures/issues) on this repository.
